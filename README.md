@@ -11,7 +11,7 @@ Exploring data visualization, dashboards, and creative problem-solving.
   [View on Tableau Public](https://public.tableau.com/app/profile/muskan.fathima1697/viz/AirlinePricingRoutePerformanceDashboard/FinalDashboard)
 
 - **Portfolio Website**  
-  [Visit My GitHub Pages](https://muskanfathima-06.github.io)
+  [Visit My Portfolio Page](https://muskanfathima-06.github.io)
 
 ---
 
