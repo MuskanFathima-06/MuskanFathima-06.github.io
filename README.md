@@ -1,5 +1,5 @@
 
-# 👩‍💻 Muskan Fathima
+#  Muskan Fathima
 
 Aspiring Data Analyst | Passionate about turning data into insights with Python, SQL, and Tableau, Excel and PowerBI.  
 Exploring data visualization, dashboards, and creative problem-solving.
